@@ -6,12 +6,12 @@ const Hero = () => {
       <div className="flex flex-col max-w-screen-lg mx-auto items-center">
         <div className="w-full flex md:px-5 lg:px-0 justify-center py-2 md:py-8 overflow-hidden">
           <img
-            src="https://www.joinclubhouse.com/static/img/homepage/hero_sm.e9a0960d1641.png"
+            src="https://www.joinclubhouse.com/static/img/homepage/hero_lg.6c049473202f.png"
             alt=""
             className="object-contain md:hidden max-w-none mx-auto w-[640px]"
           />
           <img
-            src="https://www.joinclubhouse.com/static/img/homepage/hero_lg.5a0ed1519807.png"
+            src="https://www.joinclubhouse.com/static/img/homepage/hero_lg.6c049473202f.png"
             alt=""
             className="object-contain hidden md:block"
           />
